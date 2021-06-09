@@ -1,0 +1,6 @@
+__pycache__
+.vscode/
+data_n_weights/
+results/
+nn_images/
+tensorboard_dir/
